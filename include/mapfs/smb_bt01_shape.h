@@ -1,0 +1,27 @@
+#define MODEL_Root              0x19
+#define MODEL_BowserStatueBase  0x18
+#define MODEL_BowserStatuePillar 0x17
+#define MODEL_BowserStatuePodium 0x16
+#define MODEL_BowserStatueBust  0x15
+#define MODEL_Path              0x14
+#define MODEL_Wall1             0x13
+#define MODEL_BricksFloating    0x12
+#define MODEL_LavaFlow          0x11
+#define MODEL_LavaShade         0x10
+#define MODEL_Lava              0xF
+#define MODEL_PlatformBottomLava 0xE
+#define MODEL_StageFloorWall    0xD
+#define MODEL_StageFloorMain    0xC
+#define MODEL_StageFloor        0xB
+#define MODEL_StageWallSide     0xA
+#define MODEL_StageWallFront    0x9
+#define MODEL_CeilingBricks     0x8
+#define MODEL_Rails             0x7
+#define MODEL_BrickFloorBack    0x6
+#define MODEL_BackWall          0x5
+#define MODEL_Pillar5           0x4
+#define MODEL_Pillar4           0x3
+#define MODEL_Pillar3           0x2
+#define MODEL_Pillar2           0x1
+#define MODEL_Pillar1           0x0
+

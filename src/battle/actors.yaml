@@ -2334,3 +2334,14 @@
     stepDelay: [ 30, 30 ]
     tattleCamOffset: [ 0, 0, 0 ]
     shadowOffset: 0
+- FalseBowserGoomba:
+    level: 10
+    nameMsg: MSG_1Dash4_FalseBowser
+    tattleMsg: MSG_1Dash4_FalseBowserTattle # TODO
+    walkSound: [ SOUND_NONE, SOUND_NONE ]
+    flySound: [ SOUND_NONE, SOUND_NONE ]
+    jumpSound: SOUND_LARGE_ACTOR_JUMP
+    hurtSound: SOUND_NONE
+    stepDelay: [ 30, 30 ]
+    tattleCamOffset: [ 0, 0, 0 ]
+    shadowOffset: 241
